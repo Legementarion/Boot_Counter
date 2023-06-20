@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Boot counter</string>
+
+
+    <string name="no_boot">No boots detected</string>
+    <string name="boot_detected">The boot was detected with the timestamp = %s</string>
+    <string name="last_boot">Last boots time delta = %s</string>
+
+</resources>
